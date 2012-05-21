@@ -1,0 +1,88 @@
+﻿<html lang="en">
+<head>
+    <title id='Description'>jqxChart Stacked Area Series Example</title>
+    <link rel="stylesheet" href="../../jqwidgets/styles/jqx.base.css" type="text/css" />
+    <script type="text/javascript" src="../../scripts/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="../../jqwidgets/jqxcore.js"></script>
+    <script type="text/javascript" src="../../jqwidgets/jqxdata.js"></script>
+    <script type="text/javascript" src="../../jqwidgets/jqxchart.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // prepare the data
+            var source =
+            {
+                datatype: "tab",
+                datafields: [
+                    { name: 'Date'},
+                    { name: 'Referral'},
+                    { name: 'SearchPaid'},
+                    { name: 'SearchNonPaid'}
+                ],
+                url: '../sampledata/website_analytics.txt'
+            };
+
+            var dataAdapter = new $.jqx.dataAdapter(source, { async: false, autoBind: true, loadError: function (xhr, status, error) { alert('Error loading "' + source.url + '" : ' + error); } });
+
+            // prepare jqxChart settings
+            var settings = {
+                title: "Visual Web Traffic Analysis",
+                description: "Unique site visitors in 2011",
+                enableAnimations: true,
+                showLegend: true,
+                padding: { left: 5, top: 5, right: 5, bottom: 5 },
+                titlePadding: { left: 90, top: 0, right: 0, bottom: 10 },
+                source: dataAdapter,
+                categoryAxis:
+                    {
+                        text: 'Category Axis',
+                        textRotationAngle: 0,
+                        dataField: 'Date',
+                        formatFunction: function (value) {
+                            var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+                            return months[new Date(value).getMonth()];
+                        },
+                        showTickMarks: true,
+                        tickMarksInterval: 31,
+                        tickMarksColor: '#888888',
+                        unitInterval: 31,
+                        showGridLines: true,
+                        gridLinesInterval: 3 * 31,
+                        gridLinesColor: '#888888',
+                        textInsideIntervals: true
+                    },
+                colorScheme: 'scheme03',
+                seriesGroups:
+                    [
+                        {
+                            type: 'stackedarea',
+                            valueAxis:
+                            {
+                                unitInterval: 500,
+                                minValue: 0,
+                                maxValue: 3000,
+                                displayValueAxis: true,
+                                description: 'Daily visitors',
+                                //descriptionClass: 'css-class-name',
+                                axisSize: 'auto',
+                                tickMarksColor: '#888888'
+                            },
+                            series: [
+                                    { dataField: 'SearchNonPaid', displayText: 'Non-Paid Search Traffic' },
+                                    { dataField: 'SearchPaid', displayText: 'Paid Search Traffic' },
+                                    { dataField: 'Referral', displayText: 'Referral Traffic' }
+                                ]
+                        }
+                    ]
+            };
+
+            // setup the chart
+            $('#jqxChart').jqxChart(settings);
+
+        });
+    </script>
+</head>
+<body class='default'>
+    <div id='jqxChart' style="width:680px; height:400px">
+    </div>
+</body>
+</html>
