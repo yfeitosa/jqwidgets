@@ -1,0 +1,28 @@
+Operações
+
+orderby
+realiza a ordenação por um parâmetro qualquer
+
+top
+seleciona a quantidade de registros informada
+
+filter
+realiza a pesquisa com base em algum filtro
+
+ 
+Operadores
+eq 	- igual
+ne 	- não igual
+gt 	- maior que
+ge 	- maior ou igual
+lt 	- menor que
+le 	- menor ou igual
+and 	- AND lógico
+or 	- OR lógico
+not 	- NOT lógico
+
+?$top=2
+?$orderby=NM_LINGUAGEM
+?$filter=ID_LINGUAGEM ge 5
+?$filter=ID_LINGUAGEM eq 1
+

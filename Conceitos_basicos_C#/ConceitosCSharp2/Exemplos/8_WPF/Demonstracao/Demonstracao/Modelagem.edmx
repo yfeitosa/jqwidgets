@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="CURSOModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="CURSOModelStoreContainer">
+          <EntitySet Name="TB_DESENVOLVEDOR" EntityType="CURSOModel.Store.TB_DESENVOLVEDOR" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TB_LINGUAGEM" EntityType="CURSOModel.Store.TB_LINGUAGEM" store:Type="Tables" Schema="dbo" />
+        </EntityContainer>
+        <EntityType Name="TB_DESENVOLVEDOR">
+          <Key>
+            <PropertyRef Name="ID_DESENVOLVEDOR" />
+          </Key>
+          <Property Name="ID_DESENVOLVEDOR" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="NM_DESENVOLVEDOR" Type="varchar" Nullable="false" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="TB_LINGUAGEM">
+          <Key>
+            <PropertyRef Name="ID_LINGUAGEM" />
+          </Key>
+          <Property Name="ID_LINGUAGEM" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="NM_LINGUAGEM" Type="varchar" Nullable="false" MaxLength="15" />
+        </EntityType>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CURSOModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="CURSOEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="TB_DESENVOLVEDOR" EntityType="CURSOModel.TB_DESENVOLVEDOR" />
+          <EntitySet Name="TB_LINGUAGEM" EntityType="CURSOModel.TB_LINGUAGEM" />
+        </EntityContainer>
+        <EntityType Name="TB_DESENVOLVEDOR">
+          <Key>
+            <PropertyRef Name="ID_DESENVOLVEDOR" />
+          </Key>
+          <Property Name="ID_DESENVOLVEDOR" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NM_DESENVOLVEDOR" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="TB_LINGUAGEM">
+          <Key>
+            <PropertyRef Name="ID_LINGUAGEM" />
+          </Key>
+          <Property Name="ID_LINGUAGEM" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NM_LINGUAGEM" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CURSOModelStoreContainer" CdmEntityContainer="CURSOEntities">
+          <EntitySetMapping Name="TB_DESENVOLVEDOR"><EntityTypeMapping TypeName="CURSOModel.TB_DESENVOLVEDOR"><MappingFragment StoreEntitySet="TB_DESENVOLVEDOR">
+            <ScalarProperty Name="ID_DESENVOLVEDOR" ColumnName="ID_DESENVOLVEDOR" />
+            <ScalarProperty Name="NM_DESENVOLVEDOR" ColumnName="NM_DESENVOLVEDOR" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+          <EntitySetMapping Name="TB_LINGUAGEM"><EntityTypeMapping TypeName="CURSOModel.TB_LINGUAGEM"><MappingFragment StoreEntitySet="TB_LINGUAGEM">
+            <ScalarProperty Name="ID_LINGUAGEM" ColumnName="ID_LINGUAGEM" />
+            <ScalarProperty Name="NM_LINGUAGEM" ColumnName="NM_LINGUAGEM" />
+          </MappingFragment></EntityTypeMapping></EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="Modelagem">
+        <EntityTypeShape EntityType="CURSOModel.TB_DESENVOLVEDOR" Width="1.875" PointX="0.5" PointY="0.5" Height="1.2636116536458335" IsExpanded="true" />
+        <EntityTypeShape EntityType="CURSOModel.TB_LINGUAGEM" Width="1.875" PointX="2.875" PointY="0.5" Height="1.2636116536458335" IsExpanded="true" />
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

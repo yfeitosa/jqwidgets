@@ -1,0 +1,17 @@
+﻿<navigation:Page x:Class="SilverlightApplication6.Principal" 
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"
+           xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+           d:DesignWidth="486" d:DesignHeight="247"
+           Title="Principal Page">
+    <Grid x:Name="LayoutRoot">
+        <Button Content="Pesquisar Linguagem" Height="77" HorizontalAlignment="Left" Margin="58,39,0,0" Name="button1" VerticalAlignment="Top" Width="160" Click="button1_Click" />
+        <Button Content="Inserir Linguagem" Height="77" HorizontalAlignment="Left" Margin="247,39,0,0" Name="button2" VerticalAlignment="Top" Width="160" Click="button2_Click" />
+        <Button Content="Controles" Height="48" HorizontalAlignment="Left" Margin="58,122,0,0" Name="button3" VerticalAlignment="Top" Width="349" Click="button3_Click" />
+        <Button Content="Anotações" Height="48" HorizontalAlignment="Left" Margin="58,178,0,0" Name="button4" VerticalAlignment="Top" Width="146" Click="button4_Click" />
+        <Button Content="Animação" Height="48" Margin="265,178,0,0" Name="button5" VerticalAlignment="Top" Click="button5_Click_1" HorizontalAlignment="Left" Width="142" />
+    </Grid>
+</navigation:Page>

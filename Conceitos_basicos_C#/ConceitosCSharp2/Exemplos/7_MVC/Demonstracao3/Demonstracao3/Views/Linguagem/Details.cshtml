@@ -1,0 +1,20 @@
+﻿@model Demonstracao3.Models.TB_LINGUAGEM
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>TB_LINGUAGEM</legend>
+
+    <div class="display-label">NM_LINGUAGEM</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NM_LINGUAGEM)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID_LINGUAGEM }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

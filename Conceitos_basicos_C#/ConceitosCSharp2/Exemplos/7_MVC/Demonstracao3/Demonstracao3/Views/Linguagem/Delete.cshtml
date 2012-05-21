@@ -1,0 +1,23 @@
+﻿@model Demonstracao3.Models.TB_LINGUAGEM
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>TB_LINGUAGEM</legend>
+
+    <div class="display-label">NM_LINGUAGEM</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NM_LINGUAGEM)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

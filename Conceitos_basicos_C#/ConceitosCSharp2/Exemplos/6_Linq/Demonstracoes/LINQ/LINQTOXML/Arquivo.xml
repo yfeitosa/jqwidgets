@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DESENVOLVEDORES>
+  <DESENVOLVEDOR>
+    <CODIGO>1</CODIGO>
+    <NOME>Desenvolvedor 1</NOME>
+  </DESENVOLVEDOR>
+  
+  <DESENVOLVEDOR>
+    <CODIGO>2</CODIGO>
+    <NOME>Desenvolvedor 2</NOME>
+  </DESENVOLVEDOR>
+  
+  <DESENVOLVEDOR>
+    <CODIGO>3</CODIGO>
+    <NOME>Desenvolvedor 3</NOME>
+  </DESENVOLVEDOR>
+</DESENVOLVEDORES>

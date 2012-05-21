@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="Demonstracao.Controles.Titulo"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="78" d:DesignWidth="403">
+    <Grid Width="399">
+        <Label Content="Titulo da Página" Height="47" HorizontalAlignment="Left" Margin="82,12,0,0" Name="label1" VerticalAlignment="Top" FontSize="30" Width="246" Foreground="Blue" FontWeight="Bold"></Label>
+    </Grid>
+</UserControl>

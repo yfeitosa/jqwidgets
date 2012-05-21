@@ -1,0 +1,64 @@
+﻿<Page x:Class="Demonstracao.Telas.Controles"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+    Title="Controles" Height="370" Width="294">
+    <Grid>
+        <Label Height="26" HorizontalAlignment="Left" Margin="12,20,0,0" Name="label1" VerticalAlignment="Top" Width="45" Content="Nome" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="21,42,0,0" Name="textBox1" VerticalAlignment="Top" Width="247" />
+        <Label Content="Endereço" Height="25" HorizontalAlignment="Left" Margin="16,71,0,0" Name="label2" VerticalAlignment="Top" Width="64" />
+        <TextBox Height="59" HorizontalAlignment="Left" Margin="21,96,0,0" Name="textBox2" VerticalAlignment="Top" Width="247" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Visible" />
+        <Label Content="Sexo" Height="27" HorizontalAlignment="Left" Margin="21,167,0,0" Name="label3" VerticalAlignment="Top" Width="64" />
+        <RadioButton Content="Feminino" Height="16" HorizontalAlignment="Left" Margin="21,194,0,0" Name="radioButton1" VerticalAlignment="Top" />
+        <RadioButton Content="Masculino" Height="16" HorizontalAlignment="Left" Margin="109,194,0,0" Name="radioButton2" VerticalAlignment="Top" />
+        <Label Content="Estado" Height="31" HorizontalAlignment="Left" Margin="16,216,0,0" Name="label4" VerticalAlignment="Top" Width="97" />
+        <ComboBox Height="24" HorizontalAlignment="Left" Margin="21,235,0,0" Name="comboBox1" VerticalAlignment="Top" Width="247">
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Meu Botão"/>
+                <Button Content="Meu Botão"/>
+                <Button Content="Meu Botão"/>
+            </StackPanel>
+            <ComboBoxItem Background="LightCoral" 
+                          Foreground="Red" 
+                          Content="São Paulo" 
+                          FontFamily="Verdana" 
+                          FontSize="50" 
+                          FontWeight="Bold" 
+                          IsSelected="True"/>
+            <ComboBoxItem Background="LightGray" 
+                          Foreground="Black" 
+                          Content="Rio de Janeiro" 
+                          FontFamily="Georgia" 
+                          FontSize="14" 
+                          FontWeight="Bold"/>
+            <ComboBoxItem Background="LightBlue" 
+                          Foreground="Purple" 
+                          Content="Minas Gerais" 
+                          FontFamily="Verdana" 
+                          FontSize="12" 
+                          FontWeight="Bold"/>
+            <Image Source="../Imagens/Gravar.png"/>
+            <TextBox Height="59" HorizontalAlignment="Left" 
+                     Margin="21,96,0,0" 
+                     Name="textBoxc2" 
+                     VerticalAlignment="Top" 
+                     Width="247" 
+                     HorizontalScrollBarVisibility="Disabled" 
+                     VerticalScrollBarVisibility="Visible" />
+        </ComboBox>
+
+        <Button Height="23" HorizontalAlignment="Left" Margin="111,332,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="../Imagens/Limpar.png"/>
+                    <TextBlock Text="Limpar" 
+                               Height="15" 
+                               Width="43" />
+                </StackPanel>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Page>

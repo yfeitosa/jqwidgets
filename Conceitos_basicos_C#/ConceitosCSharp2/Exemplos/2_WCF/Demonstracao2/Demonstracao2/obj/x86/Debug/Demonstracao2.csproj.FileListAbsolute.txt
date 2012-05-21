@@ -1,0 +1,15 @@
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - WCF (Terça)\Demonstracao2\Demonstracao2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - WCF (Terça)\Demonstracao2\Demonstracao2\bin\Debug\Demonstracao2.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - WCF (Terça)\Demonstracao2\Demonstracao2\bin\Debug\Demonstracao2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - WCF (Terça)\Demonstracao2\Demonstracao2\obj\x86\Debug\Demonstracao2.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - WCF (Terça)\Demonstracao2\Demonstracao2\obj\x86\Debug\Demonstracao2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazer\Demonstracao2\Demonstracao2\obj\x86\Debug\Demonstracao2.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazer\Demonstracao2\Demonstracao2\obj\x86\Debug\Demonstracao2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazer\Demonstracao2\Demonstracao2\bin\Debug\Demonstracao2.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazer\Demonstracao2\Demonstracao2\bin\Debug\Demonstracao2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazer\Demonstracao2\Demonstracao2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazendo\Demonstracao2\Demonstracao2\obj\x86\Debug\Demonstracao2.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazendo\Demonstracao2\Demonstracao2\obj\x86\Debug\Demonstracao2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazendo\Demonstracao2\Demonstracao2\bin\Debug\Demonstracao2.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazendo\Demonstracao2\Demonstracao2\bin\Debug\Demonstracao2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 2 - Fazendo\Demonstracao2\Demonstracao2\obj\x86\Debug\ResolveAssemblyReference.cache

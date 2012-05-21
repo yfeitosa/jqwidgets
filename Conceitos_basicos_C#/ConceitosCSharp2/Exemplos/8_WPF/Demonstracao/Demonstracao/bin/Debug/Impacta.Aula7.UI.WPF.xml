@@ -1,0 +1,239 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Impacta.Aula7.UI.WPF
+</name>
+</assembly>
+<members>
+<member name="M:Impacta.Aula7.UI.WPF.Linguagens.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.Linguagens">
+	<summary>
+Linguagens
+</summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.Principal.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.Principal">
+	<summary>
+Principal
+</summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.Canvas.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.Canvas">
+	<summary>
+Canvas
+</summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.Estilos.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.Estilos">
+	<summary>
+Estilos
+</summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.Controles.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.Controles">
+	<summary>
+Controles
+</summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.Desenvolvedores.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.Desenvolvedores">
+	<summary>
+Desenvolvedores
+</summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.Video.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.Video">
+	<summary>
+Video
+</summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.My.MyWpfExtension.Application">
+	<summary>
+ Returns the application object for the running application
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.My.MyWpfExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.My.MyWpfExtension.User">
+	<summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.My.MyWpfExtension.Log">
+	<summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.My.MyWpfExtension.Windows">
+	<summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Impacta.Aula7.UI.WPF.CURSOEntities.#ctor">
+	<summary>
+ Initializes a new CURSOEntities object using the connection string found in the 'CURSOEntities' section of the application configuration file.
+ </summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.CURSOEntities.#ctor(System.String)">
+	<summary>
+ Initialize a new CURSOEntities object.
+ </summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.CURSOEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new CURSOEntities object.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.CURSOEntities.TB_DESENVOLVEDOR">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.CURSOEntities.TB_LINGUAGEM">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.CURSOEntities.TB_SEXO">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.CURSOEntities.AddToTB_DESENVOLVEDOR(Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR)">
+	<summary>
+ Deprecated Method for adding a new object to the TB_DESENVOLVEDOR EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.CURSOEntities.AddToTB_LINGUAGEM(Impacta.Aula7.UI.WPF.TB_LINGUAGEM)">
+	<summary>
+ Deprecated Method for adding a new object to the TB_LINGUAGEM EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.CURSOEntities.AddToTB_SEXO(Impacta.Aula7.UI.WPF.TB_SEXO)">
+	<summary>
+ Deprecated Method for adding a new object to the TB_SEXO EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.CURSOEntities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR.CreateTB_DESENVOLVEDOR(System.Int32,System.Int32,System.String,System.String,System.Boolean)">
+	<summary>
+ Create a new TB_DESENVOLVEDOR object.
+ </summary>
+	<param name="iD_DESENVOLVEDOR">Initial value of the ID_DESENVOLVEDOR property.</param>
+	<param name="iD_SEXO">Initial value of the ID_SEXO property.</param>
+	<param name="nM_DESENVOLVEDOR">Initial value of the NM_DESENVOLVEDOR property.</param>
+	<param name="nR_IDADE">Initial value of the NR_IDADE property.</param>
+	<param name="fLG_STATUS">Initial value of the FLG_STATUS property.</param>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR.ID_DESENVOLVEDOR">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR.ID_SEXO">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR.NM_DESENVOLVEDOR">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR.NR_IDADE">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR.FLG_STATUS">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR.TB_SEXO">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR.TB_SEXOReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.TB_DESENVOLVEDOR">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.TB_LINGUAGEM.CreateTB_LINGUAGEM(System.Int32,System.String)">
+	<summary>
+ Create a new TB_LINGUAGEM object.
+ </summary>
+	<param name="iD_LINGUAGEM">Initial value of the ID_LINGUAGEM property.</param>
+	<param name="nM_LINGUAGEM">Initial value of the NM_LINGUAGEM property.</param>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_LINGUAGEM.ID_LINGUAGEM">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_LINGUAGEM.NM_LINGUAGEM">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.TB_LINGUAGEM">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Impacta.Aula7.UI.WPF.TB_SEXO.CreateTB_SEXO(System.Int32,System.String)">
+	<summary>
+ Create a new TB_SEXO object.
+ </summary>
+	<param name="iD_SEXO">Initial value of the ID_SEXO property.</param>
+	<param name="nM_SEXO">Initial value of the NM_SEXO property.</param>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_SEXO.ID_SEXO">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_SEXO.NM_SEXO">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Impacta.Aula7.UI.WPF.TB_SEXO.TB_DESENVOLVEDOR">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Impacta.Aula7.UI.WPF.TB_SEXO">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member>
+</members>
+</doc>

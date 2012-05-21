@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Departamentos"  description="" roles="*">
+    <siteMapNode url="~/Departamentos/Financeiro/Home.aspx" title="Financeiro"  description="" roles="Financeiro"/>
+    <siteMapNode url="~/Departamentos/Juridico/Home.aspx" title="Juridico"  description="" roles="Juridico"/>
+    <siteMapNode url="~/Departamentos/RH/Home.aspx" title="RH"  description="" roles="RH"/>
+    <siteMapNode url="~/Departamentos/Contabilidade/Home.aspx" title="Contabilidade"  description="" roles="Contabilidade"/>
+    
+    <siteMapNode url="~/Departamentos/Administrativo/Home.aspx" 
+                 title="Administrativo" 
+                 roles="Administrativo"/>
+    
+    <siteMapNode url="~/Departamentos/Administrativo/Permissao.aspx" 
+                 title="Conceder Acessos" 
+                 roles="Administrativo"/>
+    
+    <siteMapNode url="~/Departamentos/RH/TestarPermissao.aspx" 
+                 title="Testar Acessos"  
+                 description="" 
+                 roles="RH"/>
+  </siteMapNode>
+</siteMap>

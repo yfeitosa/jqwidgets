@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CURSOModelStoreContainer" CdmEntityContainer="CURSOEntities">
+    <EntitySetMapping Name="TB_DESENVOLVEDOR">
+      <EntityTypeMapping TypeName="CURSOModel.TB_DESENVOLVEDOR">
+        <MappingFragment StoreEntitySet="TB_DESENVOLVEDOR">
+          <ScalarProperty Name="ID_DESENVOLVEDOR" ColumnName="ID_DESENVOLVEDOR" />
+          <ScalarProperty Name="NM_DESENVOLVEDOR" ColumnName="NM_DESENVOLVEDOR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TB_LINGUAGEM">
+      <EntityTypeMapping TypeName="CURSOModel.TB_LINGUAGEM">
+        <MappingFragment StoreEntitySet="TB_LINGUAGEM">
+          <ScalarProperty Name="ID_LINGUAGEM" ColumnName="ID_LINGUAGEM" />
+          <ScalarProperty Name="NM_LINGUAGEM" ColumnName="NM_LINGUAGEM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

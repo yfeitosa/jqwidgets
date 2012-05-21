@@ -1,0 +1,7 @@
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 7 - ASP.NET MVC (Quarta)\Demonstracao3\Demonstracao3\bin\Demonstracao3.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 7 - ASP.NET MVC (Quarta)\Demonstracao3\Demonstracao3\bin\Demonstracao3.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 7 - ASP.NET MVC (Quarta)\Demonstracao3\Demonstracao3\bin\EntityFramework.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 7 - ASP.NET MVC (Quarta)\Demonstracao3\Demonstracao3\bin\EntityFramework.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 7 - ASP.NET MVC (Quarta)\Demonstracao3\Demonstracao3\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 7 - ASP.NET MVC (Quarta)\Demonstracao3\Demonstracao3\obj\Debug\Demonstracao3.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 7 - ASP.NET MVC (Quarta)\Demonstracao3\Demonstracao3\obj\Debug\Demonstracao3.pdb

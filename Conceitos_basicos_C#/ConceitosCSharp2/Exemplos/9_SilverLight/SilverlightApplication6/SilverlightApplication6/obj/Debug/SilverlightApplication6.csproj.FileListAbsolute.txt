@@ -1,0 +1,688 @@
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.pdb
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\AppManifest.xaml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.xap
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6TestPage.html
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\ResolveAssemblyReference.cache
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\App.g.cs
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.g.resources
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.pdb
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\XapCacheFile.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Data.Services.Client.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Data.Services.Client.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Data.Services.Client.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Xml.Linq.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Xml.Linq.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Xml.Linq.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Xml.Linq.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Xml.Linq.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Xml.Linq.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Linguagens.g.cs
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.pdb
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.xml
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\Principal.g.cs
+c:\users\leonardo\documents\visual studio 2010\Projects\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\InserirLinguagem.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\AppManifest.xaml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.xap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6TestPage.html
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\Principal.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Controles.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\InserirLinguagem.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Linguagens.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Silverlight (Sexta)\SilverlightApplication6\SilverlightApplication6\obj\Debug\XapCacheFile.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\AppManifest.xaml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6TestPage.html
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\Principal.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Controles.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\InserirLinguagem.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Linguagens.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\XapCacheFile.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.xap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\Anotacoes\Exemplo1.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication6\obj\Debug\Animacao\Exemplo1.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\AppManifest.xaml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.xap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6TestPage.html
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\Animacao\Exemplo1.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\Anotacoes\Exemplo1.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\Principal.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Controles.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\InserirLinguagem.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Linguagens.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication6\obj\Debug\XapCacheFile.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\AppManifest.xaml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.xap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6TestPage.html
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Animacao\Exemplo1.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Anotacoes\Exemplo1.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Principal.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Controles.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\InserirLinguagem.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Linguagens.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\XapCacheFile.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.pdb
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\AppManifest.xaml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.xap
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6TestPage.html
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.pdb
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Data.Services.Client.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Data.Services.Client.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Data.Services.Client.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Xml.Linq.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Xml.Linq.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Xml.Linq.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Xml.Linq.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Xml.Linq.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Xml.Linq.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\ResolveAssemblyReference.cache
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\App.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Animacao\Exemplo1.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Anotacoes\Exemplo1.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Principal.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Controles.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\InserirLinguagem.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Linguagens.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.g.resources
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.pdb
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\XapCacheFile.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.pdb
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\AppManifest.xaml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6.xap
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication6TestPage.html
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\SilverlightApplication2.pdb
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Data.Services.Client.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Data.Input.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Controls.Navigation.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Windows.Data.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\System.Xml.Linq.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Data.Services.Client.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Data.Services.Client.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Data.Services.Client.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Data.Services.Client.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Data.Services.Client.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Data.Services.Client.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Data.Services.Client.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Data.Services.Client.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Windows.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Windows.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Windows.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Windows.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Windows.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Windows.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\de\System.Xml.Linq.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\es\System.Xml.Linq.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\fr\System.Xml.Linq.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\it\System.Xml.Linq.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ja\System.Xml.Linq.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\ko\System.Xml.Linq.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\ResolveAssemblyReference.cache
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\App.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Animacao\Exemplo1.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Anotacoes\Exemplo1.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Principal.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Controles.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\InserirLinguagem.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\Telas\Linguagens.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.g.resources
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\SilverlightApplication6.pdb
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication6\obj\Debug\XapCacheFile.xml

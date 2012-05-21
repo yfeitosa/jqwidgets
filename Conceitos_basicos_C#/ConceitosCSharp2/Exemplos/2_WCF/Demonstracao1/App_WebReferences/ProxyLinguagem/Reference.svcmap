@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="90e0d14d-e580-4139-8f27-2abd44896dad" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3791/Demonstracao1/Servicos/svcLinguagem.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="svcLinguagem.disco" MetadataType="Disco" ID="30fec4e4-b9aa-47b2-a97b-b511c3aa33d8" SourceId="1" SourceUrl="http://localhost:3791/Demonstracao1/Servicos/svcLinguagem.svc?disco" />
+    <MetadataFile FileName="svcLinguagem.wsdl" MetadataType="Wsdl" ID="aeb8d65d-cd4d-4fcd-8147-10f16848034e" SourceId="1" SourceUrl="http://localhost:3791/Demonstracao1/Servicos/svcLinguagem.svc?wsdl" />
+    <MetadataFile FileName="svcLinguagem.xsd" MetadataType="Schema" ID="39e25d95-4ece-4eef-96a4-3c5cf6ff3d79" SourceId="1" SourceUrl="http://localhost:3791/Demonstracao1/Servicos/svcLinguagem.svc?xsd=xsd2" />
+    <MetadataFile FileName="svcLinguagem1.xsd" MetadataType="Schema" ID="60d432c9-8c88-4e09-a190-66ea8d580edb" SourceId="1" SourceUrl="http://localhost:3791/Demonstracao1/Servicos/svcLinguagem.svc?xsd=xsd1" />
+    <MetadataFile FileName="svcLinguagem2.xsd" MetadataType="Schema" ID="cc4df874-fdc5-4fd1-ba16-e824da865641" SourceId="1" SourceUrl="http://localhost:3791/Demonstracao1/Servicos/svcLinguagem.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

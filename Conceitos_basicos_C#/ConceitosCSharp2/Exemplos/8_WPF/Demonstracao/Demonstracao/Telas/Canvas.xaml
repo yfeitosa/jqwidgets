@@ -1,0 +1,14 @@
+﻿<Page x:Class="Demonstracao.Telas.Canvas"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="397" d:DesignWidth="607"
+	Title="Canvas">
+
+    <Grid>
+        <InkCanvas Height="326" HorizontalAlignment="Left" Margin="12,12,0,0" Name="inkCanvas1" VerticalAlignment="Top" Width="570" />
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="507,352,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+    </Grid>
+</Page>

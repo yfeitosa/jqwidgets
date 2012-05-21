@@ -1,0 +1,156 @@
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe.manifest
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\bin\Debug\Demonstracao.xbap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\bin\Debug\Demonstracao.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Principal.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Telas\Desenvolvedores.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Telas\Linguagens.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Principal.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Telas\Desenvolvedores.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Telas\Linguagens.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao_MarkupCompile.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao.Properties.Resources.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\GenerateResource.read.1.tlog
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\GenerateResource.write.1.tlog
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao.TrustInfo.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao.exe.manifest
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao.xbap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe.config
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Videos\Video.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Videos\Video.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao_Content.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Controles\Rodape.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Controles\Titulo.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Controles\Rodape.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Controles\Titulo.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Demonstracao_MarkupCompile.lref
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\App.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Telas\Canvas.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Telas\Canvas.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Telas\Page1.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - WPF (Quinta)\Demonstracao\Demonstracao\obj\Debug\Telas\Page1.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe.config
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe.manifest
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\bin\Debug\Demonstracao.xbap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\bin\Debug\Demonstracao.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Controles\Rodape.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Controles\Titulo.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Principal.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Telas\Canvas.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Telas\Linguagens.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Telas\Page1.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Videos\Video.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\App.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Controles\Rodape.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Controles\Titulo.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Principal.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Telas\Canvas.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Telas\Desenvolvedores.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Telas\Linguagens.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Telas\Page1.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Videos\Video.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao_Content.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao_MarkupCompile.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Telas\Desenvolvedores.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao.Properties.Resources.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\GenerateResource.read.1.tlog
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\GenerateResource.write.1.tlog
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao.TrustInfo.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao.exe.manifest
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao.xbap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazer\Demonstracao\Demonstracao\obj\Debug\Demonstracao_MarkupCompile.lref
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe.config
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe.manifest
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.xbap
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.pdb
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\ResolveAssemblyReference.cache
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Controles\Rodape.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Controles\Titulo.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Principal.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Canvas.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Linguagens.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Page1.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Videos\Video.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\App.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Controles\Rodape.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Controles\Titulo.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Principal.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Canvas.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Desenvolvedores.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Linguagens.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Page1.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Videos\Video.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\App.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao_Content.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao_MarkupCompile.cache
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao_MarkupCompile.lref
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Desenvolvedores.baml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.g.resources
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.Properties.Resources.resources
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\GenerateResource.read.1.tlog
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\GenerateResource.write.1.tlog
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.TrustInfo.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.exe.manifest
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.xbap
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.exe
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Videos\MeuVideo.wmv
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe.config
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe.manifest
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.xbap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Demonstracao.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Impacta.Aula7.UI.WPF.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Impacta.Aula7.UI.WPF.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\bin\Debug\Impacta.Aula7.UI.WPF.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Controles\Rodape.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Controles\Titulo.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Principal.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Animacao.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Canvas.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Controles.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Estilos.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Linguagens.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Videos\Video.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\App.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Controles\Rodape.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Controles\Titulo.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Principal.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Animacao.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Canvas.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Controles.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Desenvolvedores.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Estilos.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Linguagens.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Videos\Video.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao_Content.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao_MarkupCompile.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao_MarkupCompile.lref
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Telas\Desenvolvedores.baml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.Properties.Resources.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\GenerateResource.read.1.tlog
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\GenerateResource.write.1.tlog
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.TrustInfo.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.exe.manifest
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.xbap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.exe
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 8 - Fazendo\Demonstracao\Demonstracao\obj\Debug\Demonstracao.pdb

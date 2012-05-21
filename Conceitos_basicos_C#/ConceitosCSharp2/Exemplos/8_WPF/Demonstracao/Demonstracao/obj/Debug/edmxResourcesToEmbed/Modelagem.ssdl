@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CURSOModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="CURSOModelStoreContainer">
+    <EntitySet Name="TB_DESENVOLVEDOR" EntityType="CURSOModel.Store.TB_DESENVOLVEDOR" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TB_LINGUAGEM" EntityType="CURSOModel.Store.TB_LINGUAGEM" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="TB_DESENVOLVEDOR">
+    <Key>
+      <PropertyRef Name="ID_DESENVOLVEDOR" />
+    </Key>
+    <Property Name="ID_DESENVOLVEDOR" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NM_DESENVOLVEDOR" Type="varchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TB_LINGUAGEM">
+    <Key>
+      <PropertyRef Name="ID_LINGUAGEM" />
+    </Key>
+    <Property Name="ID_LINGUAGEM" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NM_LINGUAGEM" Type="varchar" Nullable="false" MaxLength="15" />
+  </EntityType>
+</Schema>

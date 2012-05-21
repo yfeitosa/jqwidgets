@@ -1,0 +1,60 @@
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\Bin\Debug\AppManifest.xaml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.xap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2TestPage.html
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\obj\Debug\MainPage.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9\SilverlightApplication6\SilverlightApplication2\obj\Debug\XapCacheFile.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\Bin\Debug\AppManifest.xaml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.xap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2TestPage.html
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\obj\Debug\MainPage.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazer\SilverlightApplication6\SilverlightApplication2\obj\Debug\XapCacheFile.xml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\AppManifest.xaml
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.xap
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2TestPage.html
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\ResolveAssemblyReference.cache
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\App.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\MainPage.g.cs
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.g.resources
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.dll
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.pdb
+E:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\XapCacheFile.xml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.pdb
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\AppManifest.xaml
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.xap
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2TestPage.html
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\ResolveAssemblyReference.cache
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\App.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\MainPage.g.cs
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.g.resources
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.dll
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.pdb
+G:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\XapCacheFile.xml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.pdb
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\AppManifest.xaml
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2.xap
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\Bin\Debug\SilverlightApplication2TestPage.html
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\ResolveAssemblyReference.cache
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\App.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\MainPage.g.cs
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.g.resources
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.dll
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\SilverlightApplication2.pdb
+F:\Treinamentos\Impacta\ASP.NET 2010 (CSharp) - Módulo 2\Aula 9 - Fazendo\SilverlightApplication6\SilverlightApplication2\obj\Debug\XapCacheFile.xml

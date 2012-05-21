@@ -1,0 +1,14 @@
+﻿<Page x:Class="Demonstracao.Videos.Video"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="457" d:DesignWidth="669"
+	Title="Video">
+
+    <Grid Height="424" Width="639">
+        <MediaElement Name="mediaElement1" Margin="12" Source="MeuVideo.wmv">
+        </MediaElement>
+    </Grid>
+</Page>
